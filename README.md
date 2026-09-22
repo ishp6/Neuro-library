@@ -1,3 +1,4 @@
+[![Live Demo](https://img.shields.io/badge/Live-Demo-green)](https://neuro-library-nu.vercel.app/)
 # Neuro-Library
 
 A full-stack web app for exploring the nervous system, learning about neurological disorders, running an educational symptom checker, and finding nearby neurologists.
