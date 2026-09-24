@@ -1,3 +1,4 @@
+[![Live Demo](https://img.shields.io/badge/Live-Demo-green)](https://neuro-library-nu.vercel.app/)
 # Neuro-Library
 
 A full-stack web app for exploring how the nervous system works, learning about common neurological disorders, running a symptom-based screening check, and finding nearby neurologists — built as a complete implementation of the Neuro-Library concept.
